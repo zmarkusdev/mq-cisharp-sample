@@ -6,7 +6,7 @@ namespace MqTest2
     public class Program
     {
         private const string QueueManager = "QMA";
-        private const string ExistingQueue = "QUEUE1";
+        private const string ExistingQueue = "QMA1";
         private const string Message = "Hello world";
 
         public static void Main()
